@@ -11,3 +11,5 @@ This is a small arduino sample project, that creates a few faces or eyes only fr
 
 
 Yeah googly eyes are fun on projects, but this adds a new level to it :)
+
+For testing I used 1.8" TFT LCD, but it should keep the ration for any LCD component. 
