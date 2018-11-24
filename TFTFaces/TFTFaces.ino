@@ -48,7 +48,7 @@ void initData() {
 }
 
 void loop() {
-  
+  randomIrisPosGenerate();
   baseEyes();
   delay(5000);
   
